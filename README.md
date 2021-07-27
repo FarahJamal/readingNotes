@@ -55,18 +55,18 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read01  | Introductory HTML and JavaScript |[](https://farahjamal.github.io/readingNotes/read01)|
 |  Read02  | Basics of HTML, CSS & JS  |[](https://farahjamal.github.io/readingNotes/read02)|
 |  Read03  | HTML Lists, Control Flow with JS, and the CSS Box Model | [](https://farahjamal.github.io/readingNotes/read03)  |
-|  Read04  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
-|  Read05  | HTML Images; CSS Color & Text                           |   |
-|  Read06  | Problem Domain, Objects, and the DOM                    |   |
-|  Read07  | Object-Oriented Programming, HTML Tables                |   |
-|  Read08  | CSS Layout                                              |   |
-|  Read09  | Forms and JS Events                                     |   |
-|  Read10  | Debugging                                               |   |
-|  Read11  | Audio, Video, Images                                    |   |
-|  Read12  | Chart.js, Canvas                                        |   |
-|  Read13  | Local Storage                                           |   |
-|  Read14 | CSS Transforms, Transitions, and Animations              |   |
-|  Read15 | What Google Learned About Teams                          |   |
+|  Read04  | HTML Links, JS Functions, and Intro to CSS Layout       | [react forms](https://farahjamal.github.io/readingNotes/read04)  |
+|  Read05  | HTML Images; CSS Color & Text                           |   ||
+|  Read06  | Problem Domain, Objects, and the DOM                    |   ||
+|  Read07  | Object-Oriented Programming, HTML Tables                |   ||
+|  Read08  | CSS Layout                                              |   ||
+|  Read09  | Forms and JS Events                                     |   ||
+|  Read10  | Debugging                                               |   ||
+|  Read11  | Audio, Video, Images                                    |   ||
+|  Read12  | Chart.js, Canvas                                        |   ||
+|  Read13  | Local Storage                                           |   ||
+|  Read14 | CSS Transforms, Transitions, and Animations              |   ||
+|  Read15 | What Google Learned About Teams                          |   ||
 
 
 -----

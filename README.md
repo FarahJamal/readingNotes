@@ -4,7 +4,7 @@
 
 * I am 22 years old I have graduated from Al-Balqa'a Applied University with a bachelor's degree  in computer science. 💻
 * actually I am Android Developer 📱 and cyber security Hobbyist 🔐.
-* I am always trying to learn new things and since 3 days ago I have started a new way for my life to become a full stack developer at ASAC.🙌
+* I am always trying to learn new things and since a while I have started a new way for my life to become a full stack developer at ASAC.🙌
 * I have learned such amazing things these days and I will show what I have learned.😎😎
 
 
@@ -50,23 +50,22 @@ file Name(Lab name) | File Live URL | File Repo Link|
 ### Table of contents
 
 file Name(Lab name) | File Live URL | File Repo Link|
-
-| :-------:|:-------------------------------------------------------:|:------------------------------------------------------------------:|
-|  Read01  | Introductory HTML and JavaScript |[](https://farahjamal.github.io/readingNotes/read01)|
-|  Read02  | Basics of HTML, CSS & JS  |[](https://farahjamal.github.io/readingNotes/read02)|
-|  Read03  | HTML Lists, Control Flow with JS, and the CSS Box Model | [](https://farahjamal.github.io/readingNotes/read03)  |
-|  Read04  | HTML Links, JS Functions, and Intro to CSS Layout       | [react forms](https://farahjamal.github.io/readingNotes/read04)  |
-|  Read05  | HTML Images; CSS Color & Text                           |   ||
-|  Read06  | Problem Domain, Objects, and the DOM                    |   ||
-|  Read07  | Object-Oriented Programming, HTML Tables                |   ||
-|  Read08  | CSS Layout                                              |   ||
-|  Read09  | Forms and JS Events                                     |   ||
-|  Read10  | Debugging                                               |   ||
-|  Read11  | Audio, Video, Images                                    |   ||
-|  Read12  | Chart.js, Canvas                                        |   ||
-|  Read13  | Local Storage                                           |   ||
-|  Read14 | CSS Transforms, Transitions, and Animations              |   ||
-|  Read15 | What Google Learned About Teams                          |   ||
+| ------| -----------|--------|
+|  Read01  | [Introduction to React and Components](https://farahjamal.github.io/readingNotes/read01)|[Introduction to React and Components](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
+|  Read02  |[State and Props](https://farahjamal.github.io/readingNotes/read02)|[Introduction to React and Components](https://github.com/FarahJamal/readingNotes/blob/main/read02.md)|
+|  Read03  |[Passing Functions as Props](https://farahjamal.github.io/readingNotes/read03) |[Passing Functions as Props](https://github.com/FarahJamal/readingNotes/blob/main/read03.md)|
+|  Read04  |[react & forms](https://farahjamal.github.io/readingNotes/read04)  |[react & forms-repo](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
+|  Read05|[Putting it all together](https://farahjamal.github.io/readingNotes/read05)|[Putting it all together-repo](https://github.com/FarahJamal/readingNotes/blob/main/read05.md)|
+|  Read06|[Node.js](https://farahjamal.github.io/readingNotes/read06)   |[Node.JS-repo](https://github.com/FarahJamal/readingNotes/blob/main/read06.md)|
+|  Read07                 |   ||
+|  Read08                                            |   ||
+|  Read09                                    |   ||
+|  Read10                                               |   ||
+|  Read11  |   ||
+|  Read12                                      |   ||
+|  Read13                                         |   ||
+|  Read14             |   ||
+|  Read15 |   ||
 
 
 -----

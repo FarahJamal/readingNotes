@@ -56,9 +56,9 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read03  |[Passing Functions as Props](https://farahjamal.github.io/readingNotes/read03) |[Passing Functions as Props](https://github.com/FarahJamal/readingNotes/blob/main/read03.md)|
 |  Read04  |[react & forms](https://farahjamal.github.io/readingNotes/read04)  |[react & forms-repo](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
 |  Read05|[Putting it all together](https://farahjamal.github.io/readingNotes/read05)|[Putting it all together-repo](https://github.com/FarahJamal/readingNotes/blob/main/read05.md)|
-|  Read06|[Node.js](https://farahjamal.github.io/readingNotes/read06)   |[Node.JS-repo](https://github.com/FarahJamal/readingNotes/blob/main/read06.md)|
-|  Read07                 |   ||
-|  Read08                                            |   ||
+|  Read06|[Node.js](https://farahjamal.github.io/readingNotes/read06)   |[Node.JS-repo](https://github.com/FarahJamal/readingNotes/blob/main/read07.md)|
+|  Read07|[REST](https://farahjamal.github.io/readingNotes/read07)   |[REST-repo](https://github.com/FarahJamal/readingNotes/blob/main/read07.md)|
+|  Read08| [API](https://farahjamal.github.io/readingNotes/read08)   |[API-repo](https://github.com/FarahJamal/readingNotes/blob/main/read08.md)|
 |  Read09                                    |   ||
 |  Read10                                               |   ||
 |  Read11  |   ||

@@ -60,7 +60,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read07|[REST](https://farahjamal.github.io/readingNotes/read07)   |[REST-repo](https://github.com/FarahJamal/readingNotes/blob/main/read07.md)|
 |  Read08| [API](https://farahjamal.github.io/readingNotes/read08)   |[API-repo](https://github.com/FarahJamal/readingNotes/blob/main/read08.md)|
 |  Read09                                    |   ||
-|  Read10                                               |   ||
+|  Read10| [call stack](https://farahjamal.github.io/readingNotes/read10)   |[call stack-repo](https://github.com/FarahJamal/readingNotes/blob/main/read10.md)|
 |  Read11  |   ||
 |  Read12                                      |   ||
 |  Read13                                         |   ||

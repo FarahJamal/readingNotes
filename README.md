@@ -63,9 +63,9 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read10| [call stack](https://farahjamal.github.io/readingNotes/read10)   |[call stack-repo](https://github.com/FarahJamal/readingNotes/blob/main/read10.md)|
 |  Read11 |[OAuth](https://farahjamal.github.io/readingNotes/read11)   |[OAuth-repo](https://github.com/FarahJamal/readingNotes/blob/main/read11.md)|
 |  Read12|[mongo](https://farahjamal.github.io/readingNotes/read12)   |[mongo-repo](https://github.com/FarahJamal/readingNotes/blob/main/read12.md)|
-|  Read13                                         |   ||
-|  Read14             |   ||
-|  Read15 |   ||
+|  Read13| [CRUD](https://farahjamal.github.io/readingNotes/read13)|[CRUD-repo](https://github.com/FarahJamal/readingNotes/blob/main/read13.md)|
+|  Read14| [](https://farahjamal.github.io/readingNotes/read14)  |[-repo](https://github.com/FarahJamal/readingNotes/blob/main/read14.md)|
+|  Read15 |  [](https://farahjamal.github.io/readingNotes/read15) |[-repo](https://github.com/FarahJamal/readingNotes/blob/main/read15.md)|
 
 
 -----

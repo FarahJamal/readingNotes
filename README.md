@@ -75,23 +75,52 @@ file Name(Lab name) | File Live URL | File Repo Link|
 ### Table of contents
 
 file Name(Lab name) | File Live URL | File Repo Link|
-
 | :-------:|:-------------------------------------------------------:|:------------------------------------------------------------------:|
-|  Read01  | Introductory HTML and JavaScript                        |   |
-|  Read02  | Basics of HTML, CSS & JS                                |   |
-|  Read03  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
-|  Read04  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
-|  Read05  | HTML Images; CSS Color & Text                           |   |
-|  Read06  | Problem Domain, Objects, and the DOM                    |   |
-|  Read07  | Object-Oriented Programming, HTML Tables                |   |
-|  Read08  | CSS Layout                                              |   |
-|  Read09  | Forms and JS Events                                     |   |
-|  Read10  | Debugging                                               |   |
-|  Read11  | Audio, Video, Images                                    |   |
-|  Read12  | Chart.js, Canvas                                        |   |
-|  Read13  | Local Storage                                           |   |
+|  Read01  | Java Basics                         |   |
+|  Read02  | Arrays, Loops, Imports                                |   |
+|  Read03  |  Maps, primitives, File I/O |   |
+|  Read04  | OOP       |   |
+|  Read05  |                            |   |
+|  Read06  |  Inheritance and Interfaces                   |   |
+|  Read07  |  Inheritance day 2                |   |
+|  Read08  | OO Design                                              |   |
+|  Read09  | WRRC and Java                                     |   |
+|  Read10  |                                                |   |
+|  Read11  | Spring                                   |   |
+|  Read12  |Spring RESTful Routing & Static Files                                      |   |
+|  Read13  |  Related Resources and Integration Testing                                           |   |
 |  Read14 | CSS Transforms, Transitions, and Animations              |   |
 |  Read15 | What Google Learned About Teams                          |   |
+|  Read16  |  Spring Authentication                        |   |
+|  Read17  | Basics of HTML, CSS & JS                                |   |
+|  Read18  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
+|  Read19  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
+|  Read20  | HTML Images; CSS Color & Text                           |   |
+|  Read21  | Problem Domain, Objects, and the DOM                    |   |
+|  Read22  | Object-Oriented Programming, HTML Tables                |   |
+|  Read23  | CSS Layout                                              |   |
+|  Read24  | Forms and JS Events                                     |   |
+|  Read25  | Debugging                                               |   |
+|  Read26  | Audio, Video, Images                                    |   |
+|  Read27  | Chart.js, Canvas                                        |   |
+|  Read28  | Local Storage                                           |   |
+|  Read29 | CSS Transforms, Transitions, and Animations              |   |
+|  Read30 | What Google Learned About Teams                          |   |
+|  Read31  | Introductory HTML and JavaScript                        |   |
+|  Read32  | Basics of HTML, CSS & JS                                |   |
+|  Read33  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
+|  Read34  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
+|  Read35  | HTML Images; CSS Color & Text                           |   |
+|  Read36  | Problem Domain, Objects, and the DOM                    |   |
+|  Read37  | Object-Oriented Programming, HTML Tables                |   |
+|  Read38  | CSS Layout                                              |   |
+|  Read39  | Forms and JS Events                                     |   |
+|  Read40  | Debugging                                               |   |
+|  Read41  | Audio, Video, Images                                    |   |
+|  Read42  | Chart.js, Canvas                                        |   |
+|  Read43  | Local Storage                                           |   |
+|  Read44 | CSS Transforms, Transitions, and Animations              |   |
+|  Read45 | What Google Learned About Teams                          |   |
 
 
 -----

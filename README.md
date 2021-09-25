@@ -28,7 +28,7 @@
 ### Table of contents
 
 file Name(Lab name) | File Live URL | File Repo Link|
-| ------| -----------|--------|
+|------| -----------|--------|
 |read 01|[HTML & JS](http://patatatech.me/readingNotes201/read01)|[HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read01.md)|
 |read 02|[CSS & JS](http://patatatech.me/readingNotes201/read02)|[CSS & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read02.md)|
 |read 03|[CSS, HTML & JS](http://patatatech.me/readingNotes201/read03)|[CSS, HTML & JS-Repo](https://github.com/FarahJamal/readingNotes201/blob/main/read03.md)|
@@ -51,7 +51,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 
 file Name(Lab name) | File Live URL | File Repo Link|
 | ------| -----------|--------|
-|  Read01  | [Introduction to React and Components](https://farahjamal.github.io/readingNotes/read01)|[Introduction to React and Components](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
+|Read01  | [Introduction to React and Components](https://farahjamal.github.io/readingNotes/read01)|[Introduction to React and Components](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
 |  Read02  |[State and Props](https://farahjamal.github.io/readingNotes/read02)|[Introduction to React and Components](https://github.com/FarahJamal/readingNotes/blob/main/read02.md)|
 |  Read03  |[Passing Functions as Props](https://farahjamal.github.io/readingNotes/read03) |[Passing Functions as Props](https://github.com/FarahJamal/readingNotes/blob/main/read03.md)|
 |  Read04  |[react & forms](https://farahjamal.github.io/readingNotes/read04)  |[react & forms-repo](https://github.com/FarahJamal/readingNotes/blob/main/read01.md)|
@@ -75,8 +75,8 @@ file Name(Lab name) | File Live URL | File Repo Link|
 ### Table of contents
 
 file Name(Lab name) | File Live URL | File Repo Link|
-| :-------:|:-------------------------------------------------------:|:------------------------------------------------------------------:|
-|  Read01  | Java Basics                         |   |
+| ------| -----------|--------|
+|  Read01  |                     [Java Basics](https://farahjamal.github.io/readingNotes/401-notes/read01.md)     | [Java Basics-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read01.md)    |
 |  Read02  | Arrays, Loops, Imports                                |   |
 |  Read03  |  Maps, primitives, File I/O |   |
 |  Read04  | OOP       |   |

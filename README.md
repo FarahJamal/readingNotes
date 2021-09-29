@@ -80,7 +80,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read02  | [Arrays, Loops, Imports](https://farahjamal.github.io/readingNotes/401-notes/read02)                                |[Arrays, Loops, Imports](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read02.md)    |
 |  Read03  |  [Maps, primitives, File I/O](https://farahjamal.github.io/readingNotes/401-notes/read03) | [ Maps, primitives, File I/O-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read03.md)  |
 |  Read04  | [OOP](https://farahjamal.github.io/readingNotes/401-notes/read04)       |   [OOP-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read04.md)|
-|  Read05  |                            |   |
+|  Read05  |          [Linked-Lists](https://farahjamal.github.io/readingNotes/401-notes/read05)                  |  [Linked-Lists-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read05.md  |
 |  Read06  |  Inheritance and Interfaces                   |   |
 |  Read07  |  Inheritance day 2                |   |
 |  Read08  | OO Design                                              |   |

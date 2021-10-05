@@ -82,8 +82,8 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read04  | [OOP](https://farahjamal.github.io/readingNotes/401-notes/read04)       |   [OOP-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read04.md)|
 |  Read05  |          [Linked-Lists](https://farahjamal.github.io/readingNotes/401-notes/read05)                  |  [Linked-Lists-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read05.md)  |
 |  Read06  |  Inheritance and Interfaces                   |   |
-|  Read07  |  Inheritance day 2                |   |
-|  Read08  | OO Design                                              |   |
+|  Read07  |  Inheritance day 2|   |
+|  Read08  | [OO Design] (https://farahjamal.github.io/readingNotes/401-notes/read08)                  |  [OO Design-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read08.md)  |
 |  Read09  | WRRC and Java                                     |   |
 |  Read10  |                                                |   |
 |  Read11  | Spring                                   |   |

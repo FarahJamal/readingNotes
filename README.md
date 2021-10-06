@@ -83,9 +83,9 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read05  |          [Linked-Lists](https://farahjamal.github.io/readingNotes/401-notes/read05)                  |  [Linked-Lists-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read05.md)  |
 |  Read06  |  Inheritance and Interfaces                   |   |
 |  Read07  |  Inheritance day 2|   |
-|  Read08  | [OO Design] (https://farahjamal.github.io/readingNotes/401-notes/read08)                  |  [OO Design-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read08.md)  |
-|  Read09  | WRRC and Java                                     |   |
-|  Read10  |                                                |   |
+|  Read08  | [OO Design](https://farahjamal.github.io/readingNotes/401-notes/read08)                  |  [OO Design-repo ](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read08.md)  |
+|  Read09  | [WRRC and Java](https://farahjamal.github.io/readingNotes/401-notes/read09)                                     |[WRRC an Java -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read09.md)   |
+|  Read10  |   [Stacks & Queus](https://farahjamal.github.io/readingNotes/401-notes/read10)                                     |[Stacks & Queus -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read10.md)   |
 |  Read11  | Spring                                   |   |
 |  Read12  |Spring RESTful Routing & Static Files                                      |   |
 |  Read13  |  Related Resources and Integration Testing                                           |   |

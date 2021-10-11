@@ -87,7 +87,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read09  | [WRRC and Java](https://farahjamal.github.io/readingNotes/401-notes/read09)                                     |[WRRC an Java -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read09.md)   |
 |  Read10  |   [Stacks & Queus](https://farahjamal.github.io/readingNotes/401-notes/read10)                                     |[Stacks & Queus -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read10.md)   |
 |  Read11  |    [Spring](https://farahjamal.github.io/readingNotes/401-notes/read11)                                     |[Spring](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read11.md)  |
-|  Read12  |Spring RESTful Routing & Static Files                                      |   |
+|  Read12  |[Spring RESTful Routing & Static Files](https://farahjamal.github.io/readingNotes/401-notes/read12)                                   | [Spring RESTful Routing & Static Files](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read12.md)  |
 |  Read13  |  Related Resources and Integration Testing                                           |   |
 |  Read14 | CSS Transforms, Transitions, and Animations              |   |
 |  Read15 | What Google Learned About Teams                          |   |

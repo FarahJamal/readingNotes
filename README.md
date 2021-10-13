@@ -89,7 +89,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read11  |    [Spring](https://farahjamal.github.io/readingNotes/401-notes/read11)                                     |[Spring](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read11.md)  |
 |  Read12  |[Spring RESTful Routing & Static Files](https://farahjamal.github.io/readingNotes/401-notes/read12)                                   | [Spring RESTful Routing & Static Files](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read12.md)  |
 |  Read13  |  [Related Resources and Integration Testing] (https://farahjamal.github.io/readingNotes/401-notes/read13)                                          | [Related Resources and Integration Testing] (https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read13.md)  |
-|  Read14  | [Trees] (https://farahjamal.github.io/readingNotes/401-notes/read14)                                          | [Trees] (https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read14.md)  |
+|  Read14  | [Trees](https://farahjamal.github.io/readingNotes/401-notes/read14)                                          | [Trees](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read14.md)  |
 |  Read15 | What Google Learned About Teams                          |   |
 |  Read16  |  Spring Authentication                        |   |
 |  Read17  | Basics of HTML, CSS & JS                                |   |

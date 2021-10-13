@@ -90,7 +90,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read12  |[Spring RESTful Routing & Static Files](https://farahjamal.github.io/readingNotes/401-notes/read12)                                   | [Spring RESTful Routing & Static Files](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read12.md)  |
 |  Read13  |  [Related Resources and Integration Testing] (https://farahjamal.github.io/readingNotes/401-notes/read13)                                          | [Related Resources and Integration Testing] (https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read13.md)  |
 |  Read14  | [Trees](https://farahjamal.github.io/readingNotes/401-notes/read14)                                          | [Trees](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read14.md)  |
-|  Read15 | What Google Learned About Teams                          |   |
+|  Read16[Optional Read]  | [encryption-optional](https://farahjamal.github.io/readingNotes/401-notes/read15)                                          | [encryption-optional](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read15.md)  |
 |  Read16  |  Spring Authentication                        |   |
 |  Read17  | Basics of HTML, CSS & JS                                |   |
 |  Read18  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |

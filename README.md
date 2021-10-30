@@ -91,17 +91,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read13  |  [Related Resources and Integration Testing] (https://farahjamal.github.io/readingNotes/401-notes/read13)                                          | [Related Resources and Integration Testing] (https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read13.md)  |
 |  Read14  | [Trees](https://farahjamal.github.io/readingNotes/401-notes/read14)                                          | [Trees](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read14.md)  |
 |  Read16[Optional Read]  | [encryption-optional](https://farahjamal.github.io/readingNotes/401-notes/read15)                                          | [encryption-optional](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read15.md)  |
-|  Read16  |  Spring Authentication                        |   |
-|  Read17  | Basics of HTML, CSS & JS                                |   |
-|  Read18  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
-|  Read19  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
-|  Read20  | HTML Images; CSS Color & Text                           |   |
-|  Read21  | Problem Domain, Objects, and the DOM                    |   |
-|  Read22  | Object-Oriented Programming, HTML Tables                |   |
-|  Read23  | CSS Layout                                              |   |
-|  Read24  | Forms and JS Events                                     |   |
-|  Read25  | Debugging                                               |   |
-|  Read26  | Audio, Video, Images                                    |   |
+|  Read26  |[Android fundamentals](https://farahjamal.github.io/readingNotes/401-notes/read26)                                  | [Android -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read26.md)   |
 |  Read27  | Chart.js, Canvas                                        |   |
 |  Read28  | Local Storage                                           |   |
 |  Read29 | CSS Transforms, Transitions, and Animations              |   |

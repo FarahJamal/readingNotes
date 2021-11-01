@@ -91,10 +91,9 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read13  |  [Related Resources and Integration Testing] (https://farahjamal.github.io/readingNotes/401-notes/read13)                                          | [Related Resources and Integration Testing] (https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read13.md)  |
 |  Read14  | [Trees](https://farahjamal.github.io/readingNotes/401-notes/read14)                                          | [Trees](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read14.md)  |
 |  Read16[Optional Read]  | [encryption-optional](https://farahjamal.github.io/readingNotes/401-notes/read15)                                          | [encryption-optional](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read15.md)  |
-|  Read26  |[Android fundamentals](https://farahjamal.github.io/readingNotes/401-notes/read26)                                  | [Android -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read26.md)   |
-|  Read27  | Chart.js, Canvas                                        |   |
-|  Read28  | Local Storage                                           |   |
-|  Read29 | CSS Transforms, Transitions, and Animations              |   |
+|  Read26  |[Intent and shared pref](https://farahjamal.github.io/readingNotes/401-notes/read27)                                  | [Intent and shared pref -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read27.md)   |
+|  Read27  |[recyclerview ](https://farahjamal.github.io/readingNotes/401-notes/read28)                                  | [recyclerview  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read28.md)   |
+|  Read28 | CSS Transforms, Transitions, and Animations              |   |
 |  Read30 | What Google Learned About Teams                          |   |
 |  Read31  | Introductory HTML and JavaScript                        |   |
 |  Read32  | Basics of HTML, CSS & JS                                |   |

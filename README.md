@@ -93,9 +93,10 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read16[Optional Read]  | [encryption-optional](https://farahjamal.github.io/readingNotes/401-notes/read15)                                          | [encryption-optional](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read15.md)  |
 |  Read26  |[Intent and shared pref](https://farahjamal.github.io/readingNotes/401-notes/read27)                                  | [Intent and shared pref -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read27.md)   |
 |  Read27  |[recyclerview ](https://farahjamal.github.io/readingNotes/401-notes/read28)                                  | [recyclerview  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read28.md)   |
-|  Read28 | CSS Transforms, Transitions, and Animations              |   |
-|  Read30 | What Google Learned About Teams                          |   |
-|  Read31  | Introductory HTML and JavaScript                        |   |
+|  Read28  |[recyclerview ](https://farahjamal.github.io/readingNotes/401-notes/read28)                                  | [recyclerview  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read28.md)   |
+|  Read29  |[Room ](https://farahjamal.github.io/readingNotes/401-notes/read29)                                  | [Room  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read29.md)   |
+|  Read30  |[Hash tables ](https://farahjamal.github.io/readingNotes/401-notes/read30)                                  | [Hash tables  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read30.md)   |
+|  Read31  |[Espresso ☕ ](https://farahjamal.github.io/readingNotes/401-notes/read31)                                  | [Espresso ☕  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read31.md)   |
 |  Read32  | Basics of HTML, CSS & JS                                |   |
 |  Read33  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
 |  Read34  | HTML Links, JS Functions, and Intro to CSS Layout       |   |

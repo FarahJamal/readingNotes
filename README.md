@@ -98,7 +98,7 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read30  |[Hash tables ](https://farahjamal.github.io/readingNotes/401-notes/read30)                                  | [Hash tables  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read30.md)   |
 |  Read31  |[Espresso ☕ ](https://farahjamal.github.io/readingNotes/401-notes/read31)                                  | [Espresso ☕  -repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read31.md)   |
 |  Read32  |[Serverless and Amplify ](https://farahjamal.github.io/readingNotes/401-notes/read32)                                  | [[Serverless and Amplify-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read32.md)   |
-|  Read33  | HTML Lists, Control Flow with JS, and the CSS Box Model |   |
+|  Read33  |[Serverless and Amplify+ graphQL connection ](https://farahjamal.github.io/readingNotes/401-notes/read33)                                  | [[Serverless and Amplify+ graphQL connection-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read33.md)   |
 |  Read34  | HTML Links, JS Functions, and Intro to CSS Layout       |   |
 |  Read35  | HTML Images; CSS Color & Text                           |   |
 |  Read36  | Problem Domain, Objects, and the DOM                    |   |

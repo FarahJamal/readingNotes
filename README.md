@@ -101,8 +101,8 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read33  |[Serverless and Amplify+ graphQL connection ](https://farahjamal.github.io/readingNotes/401-notes/read33)                                  | [Serverless and Amplify+ graphQL connection-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read33.md)   |
 |  Read34  |[Monetization ](https://farahjamal.github.io/readingNotes/401-notes/read34)                                  | [Monetization-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read34.md)   |
 |  Read35  |[graph ](https://farahjamal.github.io/readingNotes/401-notes/read35)                                  | [grapg-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read35.md)   |
-|  Read36  | Problem Domain, Objects, and the DOM                    |   |
-|  Read37  | Object-Oriented Programming, HTML Tables                |   |
+|  Read36  |[Cognito ](https://farahjamal.github.io/readingNotes/401-notes/read36)                                  | [Cognito-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read36.md)   |
+|  Read37  |[S3 ](https://farahjamal.github.io/readingNotes/401-notes/read37)                                  | [S3-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read37.md)   |
 |  Read38  | CSS Layout                                              |   |
 |  Read39  | Forms and JS Events                                     |   |
 |  Read40  | Debugging                                               |   |

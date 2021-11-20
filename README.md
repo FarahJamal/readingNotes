@@ -103,10 +103,9 @@ file Name(Lab name) | File Live URL | File Repo Link|
 |  Read35  |[graph ](https://farahjamal.github.io/readingNotes/401-notes/read35)                                  | [grapg-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read35.md)   |
 |  Read36  |[Cognito ](https://farahjamal.github.io/readingNotes/401-notes/read36)                                  | [Cognito-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read36.md)   |
 |  Read37  |[S3 ](https://farahjamal.github.io/readingNotes/401-notes/read37)                                  | [S3-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read37.md)   |
-|  Read38  | CSS Layout                                              |   |
-|  Read39  | Forms and JS Events                                     |   |
-|  Read40  | Debugging                                               |   |
-|  Read41  | Audio, Video, Images                                    |   |
+|  Read38  |[Notifcations ](https://farahjamal.github.io/readingNotes/401-notes/read38)                                  | [Notifcations-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read38.md)   |
+|  Read39  |[Kenies ](https://farahjamal.github.io/readingNotes/401-notes/read39)                                  | [Kenies-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read39.md)   |
+|  Read41  |[Intent-filter ](https://farahjamal.github.io/readingNotes/401-notes/read41)                                  | [Intent-filter-repo](https://github.com/FarahJamal/readingNotes/blob/main/401-notes/read41.md)   |
 |  Read42  | Chart.js, Canvas                                        |   |
 |  Read43  | Local Storage                                           |   |
 |  Read44 | CSS Transforms, Transitions, and Animations              |   |
